@@ -6,3 +6,7 @@ keine Samples, keine fremden Melodien, keine Musikbibliothek).
 
 Damit bestehen keine Rechte Dritter (keine GEMA-/Label-Rechte), die Stücke dürfen für alle
 Craftamico-Kanäle kommerziell genutzt werden.
+
+`craftamico-feierabend.m4a` (ruhiger Track, 72 BPM) wurde am 11.10.2026 ebenfalls vollständig neu
+erzeugt (Skript `craftamico_feierabend_synth.py`, reine Klangsynthese, keine Samples, keine fremden
+Melodien). Kommerzielle Nutzung auf allen Craftamico-Kanälen erlaubt.
