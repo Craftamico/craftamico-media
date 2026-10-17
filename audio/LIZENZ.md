@@ -10,3 +10,15 @@ Craftamico-Kanäle kommerziell genutzt werden.
 `craftamico-feierabend.m4a` (ruhiger Track, 72 BPM) wurde am 11.10.2026 ebenfalls vollständig neu
 erzeugt (Skript `craftamico_feierabend_synth.py`, reine Klangsynthese, keine Samples, keine fremden
 Melodien). Kommerzielle Nutzung auf allen Craftamico-Kanälen erlaubt.
+
+## Craftamico-Standard-Hintergrundmusik (ab 17.10.2026)
+
+`craftamico-standard.mp3` ist die **Standard-Hintergrundmusik für alle Craftamico-Videos**
+(Werbespot, Reels, Erklärvideos), von Giovanni ausgewählt am 17.10.2026.
+
+- Quelle: Pixabay Music, Datei „nastelbom-background-music-606712“ (Künstler: nastelbom)
+- Lizenz: Pixabay Content License – kommerzielle Nutzung in eigenen Videos/Werbung erlaubt,
+  keine Namensnennung nötig. Nicht erlaubt: den Track allein (unverändert) weiterverkaufen/verbreiten
+  oder ihn als Markenzeichen eintragen.
+- Länge 2:03, ca. -10,5 LUFS; im Video etwa 8 dB unter der Sprecherstimme mischen,
+  am Ende sanft ausblenden.
